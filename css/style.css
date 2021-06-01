@@ -11,8 +11,7 @@ body {
 	display: flex;
 	font-size: 16px;
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-	background-image: url(../images/back.jpg);
-	background-size:cover;
+
 	height: 100%;
 	color: white;
 }
